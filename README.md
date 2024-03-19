@@ -1,3 +1,6 @@
+# ActiveDirectoryB2C-Front
+A React application with React Router that uses the MSAL 2 library to authenticate users and call a secured API.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
